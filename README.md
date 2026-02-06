@@ -94,8 +94,6 @@ Accurate pixel intensity preservation
 
 ```bash
 
-git clone https://github.com/poojadhingiya/IP-QIR.git
-
 
 pip install qiskit matplotlib numpy
 
